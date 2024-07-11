@@ -17,7 +17,7 @@ Sei que boas praticas são fundamentais, uma possibilidade de melhoria seria div
 
 Depois arquivos para os modelos devidamente. 
 
-Entretanto por serem modelos relativamente pequenos, achei isso desnecessario !
+Entretanto por serem modelos relativamente pequenos, achei isso desnecessario, depois me arrependi. !
 
 
 Por favor, salve o arquivo e tente abrir no vs code ou no google collab
