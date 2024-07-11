@@ -18,3 +18,8 @@ Sei que boas praticas são fundamentais, uma possibilidade de melhoria seria div
 Depois arquivos para os modelos devidamente. 
 
 Entretanto por serem modelos relativamente pequenos, achei isso desnecessario !
+
+
+Por favor, salve o arquivo e tente abrir no vs code ou no google collab
+
+Em caso de tentativa de rodar, algumas modificações nos diretorios serão necessárias.
